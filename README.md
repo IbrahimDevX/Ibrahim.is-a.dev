@@ -13,10 +13,10 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Visit the website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Twitter</a>
+    <a href="https://twitter.com/ibrahimdevx">Twitter</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">GitHub</a>
+    <a href="https://github.com/ibrahimdevx">GitHub</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Discord</a>
+    <a href="https://discord.st/ibrahimshangout">Discord</a>
   </p>
 </p>
