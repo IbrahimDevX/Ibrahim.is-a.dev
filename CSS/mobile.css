@@ -22,7 +22,7 @@ body {
     background: #EEEEEE;
     outline:none;
 }
- URL-dark {
+.URL-dark {
     border-radius:4px 0px 0px 4px;
     width:15em;
     text-align: left;
