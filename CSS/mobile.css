@@ -26,12 +26,10 @@ body {
     border:2px solid #0485ff;
 }
 .convert-button {
-   border-radius: 25px;
-   padding: 10px 40px; 
+    border-radius:0px 4px 4px 0px;
     border:2px solid #0485ff;
     background: #0485ff;
     color:white;
- box-shadow: 0 0 5px red;
 }
 
 p {
@@ -70,7 +68,7 @@ p {
 }
 
 
-.button5 {border-radius: 50%;}
+.mobile {border-radius: 50%;}
 
 
 
