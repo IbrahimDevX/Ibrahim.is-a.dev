@@ -21,7 +21,7 @@ body {
     background: #EEEEEE;
     outline:none;
 }
-.URL-input2 {
+.URL-dark {
     border-radius:4px 0px 0px 4px;
     width:15em;
     text-align: left;
@@ -32,7 +32,7 @@ body {
 .URL-input:focus {
     border:2px solid #0485ff;
 }
- .URL-input2:focus {
+ .URL-dark:focus {
     border:2px solid #0485ff;
 }
 .convert-button {
